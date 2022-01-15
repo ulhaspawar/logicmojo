@@ -1,0 +1,1 @@
+Debug/sudoku.cpp.o Debug/main.cpp.o Debug/pow.cpp.o Debug/ratmaze.cpp.o

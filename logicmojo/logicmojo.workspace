@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="logicmojo" Database="" Version="10000">
+  <Project Name="backtracking" Path="backtracking/backtracking.project" Active="Yes"/>
+  <Project Name="MultipleFile" Path="MultipleFile/MultipleFile.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="backtracking" ConfigName="Debug"/>
+      <Project Name="MultipleFile" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="backtracking" ConfigName="Release"/>
+      <Project Name="MultipleFile" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
